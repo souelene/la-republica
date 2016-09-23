@@ -1,0 +1,88 @@
+*{
+font-family: 'PT Sans', sans-serif;
+}
+/*Box-4 izquierda*/
+.titulo-1 h6{
+	font-size:15px;
+	font-family: 'Oswald', sans-serif;
+	color:#708698;
+	margin-bottom: 30px;
+}
+
+.ema h4{
+	margin-top:0;	
+}
+.ema h4 a{
+	margin-top:0;
+	font-weight: 700;
+	color:black;	
+}
+.ema>p{
+	margin:5px 0;
+	color:#92999a;
+	font-size:12px;
+}
+
+.linea{
+	background:#92999a;
+	width: 100%;
+	height:1px;
+	margin:20px 0;
+}
+ul{
+	padding-left: 0;
+}
+ul li{
+	display:inline-block;
+	margin: 0 3px;
+
+}
+ul li a{
+	text-decoration: none;
+	color:#92999a;
+}
+a:hover{
+	text-decoration: none;
+	color:grey;
+}
+ul li .fa-facebook-square{
+	color:#006299;
+	font-size: 25px;
+}
+ul li .fa-twitter-square{
+	color:#00aef1;
+	font-size: 25px;
+}
+ul li .fa-google-plus-square{
+	color:#d43e2f;
+	font-size: 25px;
+}
+ul li .fa-youtube-play{
+	color:#d43e2f;
+}
+/* fin Box-4 izquierda*/
+
+/*Box-4 derecha*/
+/*bgr-1 inicio*/
+.bgr-1{
+	background-image:url(../image/trama_square.jpg);
+	padding:10px;
+}
+.suscribete{
+	background-color: white;
+	padding: 10px;
+}
+.suscribete p{
+	padding-top: 30px;
+	font-size:20px ;
+}
+
+.suscribete button,input{
+	display:block;
+	margin:10px auto;
+}
+.bgr-1 img{
+	position:relative;
+	bottom:-30px;
+}
+/*bgr-1 fin*/
